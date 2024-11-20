@@ -5,7 +5,7 @@
 
 ## Instalasi
 
-#### 1. Clone Repository
+### 1. Clone Repository
 ```bash
 git clone https://github.com/Route-Optimization-C242-RO01/RO-CC.git
 ```
@@ -27,12 +27,20 @@ npx sequelize-cli db:seed:all
 ```
 
 ### 4. File .env
-buat file baru dengan nama .env
-buka file .env.example, copy lalu isinya pastekan ke file .env
+Buat file baru dengan nama .env atau
+Buka file .env.example, copy lalu isinya pastekan ke file .env
 isikan nama access token, nama database, username database, host, port,  password, pada file .env
+```bash
+ACCESS_TOKEN_SECRET = 
+DB_USERNAME =
+DB_PASSWORD = 
+DB_NAME = 
+DB_HOST =
+PORT = 
+```
 
 ### 5. Run Program
-untuk menjalankan api jalankan perintah di terminal, pastikan sudah pernah install nodemon sebelumnya
+Untuk menjalankan api jalankan perintah di terminal, pastikan sudah pernah install nodemon sebelumnya
 ```bash
 npm run start
 ```
