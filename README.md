@@ -1,9 +1,9 @@
 # RO-CC
 
-## Syarat
+## SYARAT
 - Node.js terinstal (unduh di [nodejs.org](https://nodejs.org))
 
-## Instalasi
+## INSTALASI
 
 ### 1. Clone Repository
 ```bash
