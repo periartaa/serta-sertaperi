@@ -1,7 +1,8 @@
 # RO-CC
 
-Pastikan anda memiliki Node.js terinstal di sistem anda. Unduh dari 
-https://nodejs.org  dan ikuti petunjuk instalasinya.
+
+<a> Pastikan anda memiliki Node.js terinstal di sistem anda. Unduh dari 
+https://nodejs.org  dan ikuti petunjuk instalasinya. <a>
 Salin repository ini ke dalam folder lokal anda.
 Buka terminal dan arahkan ke direktori proyek.
 Jalankan perintah berikut untuk menginstal dependensi : 
