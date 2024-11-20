@@ -1,18 +1,17 @@
 # RO-CC
 
-## Prasyarat
+## Syarat
 - Node.js terinstal (unduh di [nodejs.org](https://nodejs.org))
 
 ## Instalasi
 
-### 1. Clone Repository
+#### 1. Clone Repository
 ```bash
 git clone https://github.com/Route-Optimization-C242-RO01/RO-CC.git
 ```
 
 ### 2. Instal Dependensi
 Jalankan perintah berikut untuk menginstal dependensi pada projek RO-CC
-
 ```bash
 npm install
 ```
