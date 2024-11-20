@@ -1,11 +1,15 @@
 # RO-CC
+- Projek Route Optimization Bagian Divisi Cloud Computing
 
-## SYARAT
+
+## Syarat
 - Node.js terinstal (unduh di [nodejs.org](https://nodejs.org))
 
-## INSTALASI
+
+## Instalasi
 
 ### 1. Clone Repository
+Pertama kita donlowad repository dari github
 ```bash
 git clone https://github.com/Route-Optimization-C242-RO01/RO-CC.git
 ```
@@ -25,7 +29,7 @@ npx sequelize-cli db:migrate
 ```bash
 npx sequelize-cli db:seed:all
 ```
-
+Pastikan sudah menjalankan & aktifkan XAMPP serta membuat database contoh "db_ro"
 ### 4. File .env
 Buat file baru dengan nama .env atau
 Buka file .env.example, copy lalu isinya pastekan ke file .env
@@ -44,6 +48,3 @@ Untuk menjalankan api jalankan perintah di terminal, pastikan sudah pernah insta
 ```bash
 npm run start
 ```
-
-
-
