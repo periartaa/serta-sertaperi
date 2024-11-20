@@ -12,9 +12,11 @@ git clone https://github.com/Route-Optimization-C242-RO01/RO-CC.git
 
 ### 2. Instal Dependensi
 Jalankan perintah berikut untuk menginstal dependensi pada projek RO-CC
+
 ```bash
 npm install
 ```
+Penginstalan berhasil ketika folder node_modules sudah muncul pada direktori anda
 
 ### 3. Membuat Database
 Jalankan perintah berikut untuk membuat database migration: 
@@ -25,6 +27,7 @@ npx sequelize-cli db:migrate
 npx sequelize-cli db:seed:all
 ```
 
+### 4. 
 Penginstalan berhasil ketika folder node_modules sudah muncul pada direktori anda
 buat file baru dengan nama .env
 buka file .env.example, copy lalu isinya pastekan ke file .env
