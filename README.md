@@ -21,7 +21,7 @@ npm install
 ```
 Penginstalan berhasil ketika folder node_modules sudah muncul pada direktori anda
 
-### 3. Membuat Database
+### 3. Create Database
 Jalankan perintah berikut untuk membuat database migration: 
 ```bash
 npx sequelize-cli db:migrate
